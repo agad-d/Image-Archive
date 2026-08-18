@@ -73,6 +73,9 @@ Built entirely on standard web APIs. Core gallery functionality (grid, lightbox,
 
 All animations respect `prefers-reduced-motion`.
 
+## Live Preview 
+[Preview](https://codealpha-imagegallery.vercel.app/)
+
 ## Tech Notes
 
 - Zero dependencies, zero build tooling — just three native web technologies in one file.
